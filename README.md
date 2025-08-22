@@ -30,7 +30,6 @@ You can see some of the art and the creation process in this LinkedIn post:
   * It can **slide off ledges**, so precise landings are recommended.  
 * **Objective** 🏆:  
   * Keep climbing by landing on platforms.  
-  * The game ends if you miss a platform and fall.
 
 ## **💻 Technologies Used**
 
